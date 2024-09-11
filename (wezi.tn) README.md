@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BrotherW321
-- 👀 TECHFREAK
-- 🌱  learning ...
-- 💞️ lost soul
-- 📫 How to reach me ...[DONT PLEASE...]
+- 👋 Wezi Nyirenda
+- 👀 Programming Student
+- 🌱 learning
+- 💞️ bruh...
+- 📫 Zambia
 - 
 
 <!---
