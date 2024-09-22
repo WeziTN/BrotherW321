@@ -3,7 +3,7 @@
 - 🌱 learning
 - 💞️ bruh...
 - 📫 Zambia
-- 
+- 💀 *_*
 
 <!---
 BrotherW321/BrotherW321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
